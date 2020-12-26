@@ -1,0 +1,5 @@
+(1) export DISPLAY=:0.0    after estableshed SSH
+(2) xset s reset
+
+
+
