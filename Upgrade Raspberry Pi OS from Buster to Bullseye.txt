@@ -1,3 +1,10 @@
+To update an existing image, use the usual terminal command:
+
+sudo apt update
+sudo apt full-upgrade
+
+
+** OLD ************
 https://www.tomshardware.com/how-to/upgrade-raspberry-pi-os-to-bullseye-from-buster
 
 1. Open a terminal and update the software repositories lists.
